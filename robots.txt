@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://espacomemoriaativa.com.br/sitemap.xml
